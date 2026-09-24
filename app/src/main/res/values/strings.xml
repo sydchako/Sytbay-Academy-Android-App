@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sytbay Academy</string>
+    <string name="tagline">Zimbabwe\'s Premier Exam Prep &amp; Learning Platform</string>
+    <string name="search_placeholder">Search past papers, notes, subjects…</string>
+    <string name="zimsec">ZIMSEC</string>
+    <string name="cambridge">Cambridge</string>
+    <string name="hexco">HEXCO / Tertiary</string>
+    <string name="all_levels">All Levels</string>
+    <string name="grade_7">Grade 7</string>
+    <string name="o_level">O-Level</string>
+    <string name="a_level">A-Level</string>
+</resources>

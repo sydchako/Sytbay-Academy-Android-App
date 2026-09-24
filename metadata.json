@@ -1,0 +1,6 @@
+{
+  "name": "Sytbay Academy",
+  "description": "Zimbabwe's leading exam preparation portal for ZIMSEC, Cambridge, HEXCO syllabuses, past papers, notes, study planner, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
